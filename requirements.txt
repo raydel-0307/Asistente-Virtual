@@ -1,0 +1,6 @@
+fake-useragent==1.5.1
+requests==2.32.3
+Flask==3.0.3
+bs4==0.0.2
+requests-toolbelt==1.0.0
+huggingface-hub==0.26.2
