@@ -55,7 +55,7 @@ python main.py
 
 ## Ejemplos
 
-[Ouput](data/output_example.png)
+![Ouput](data/output_example.png)
 
 ## Licencia
 
